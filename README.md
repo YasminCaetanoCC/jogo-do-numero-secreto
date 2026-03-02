@@ -19,7 +19,7 @@
 *(Dica: Tire um print da tela do jogo rodando no navegador e coloque aqui!)*
 
 <p align="center">
-  <img src="URL_DA_SUA_IMAGEM_AQUI" width="600" title="Tela do Jogo">
+  <img src="https://github.com/user-attachments/assets/eac7804d-007e-48bf-afe3-3cc63fb4f6e7" width="600" title="Tela do Jogo">
 </p>
 
 ## 🚀 Funcionalidades Principais
