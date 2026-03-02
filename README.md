@@ -39,4 +39,4 @@
 * **Vercel:** Hospedagem (Deploy) do projeto.
 
 ---
-Desenvolvido com 🩵 por **Yasmin Caetano**
+Desenvolvido por **Yasmin Caetano**
