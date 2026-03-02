@@ -1,29 +1,42 @@
-# Jogo do Número Secreto
-Um jogo interativo de adivinhação de números construído com HTML, CSS e JavaScript. O objetivo é descobrir um número secreto gerado aleatoriamente, com o auxílio de dicas e feedback por voz a cada tentativa.
-Projeto Criado ao decorrer do curso Lógica de Programação da Alura + Oracle Next Education (ONE).
+# 🎲 Jogo do Número Secreto
 
-# 🚀 Funcionalidades Principais
-**Adivinhe o Número:** Tente adivinhar um número secreto entre 1 e 10.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
+</p>
 
-**Dicas Dinâmicas:** Após cada tentativa, o jogo informa se o número secreto é maior ou menor.
+<p align="center">
+  <strong>🚨 Jogue agora mesmo: <a href="https://jogo-do-numero-secreto-sable-one.vercel.app">Acessar o Jogo</a></strong>
+</p>
 
-**Feedback por Voz:** Utiliza a API ResponsiveVoice.js para fornecer instruções e resultados em voz (Português do Brasil), tornando a experiência mais acessível e interativa.
+<p align="justify">
+  Um jogo interativo de adivinhação lógica construído para a web. O objetivo é descobrir o número secreto gerado aleatoriamente pela máquina, com o auxílio de dicas dinâmicas e feedback por voz a cada tentativa. Este projeto foi desenvolvido durante a trilha de Lógica de Programação da <b>Alura + Oracle Next Education (ONE)</b>.
+</p>
 
-**Contador de Tentativas:** Ao acertar, o jogo exibe com quantas tentativas você descobriu o número.
+## 🎨 Demonstração (UI)
+*(Dica: Tire um print da tela do jogo rodando no navegador e coloque aqui!)*
 
-**Sistema de Sorteio Inteligente:** Os números sorteados não se repetem até que todas as possibilidades (de 1 a 10) tenham sido sorteadas, garantindo uma nova experiência a cada partida.
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_AQUI" width="600" title="Tela do Jogo">
+</p>
 
-**Jogar Novamente:** Um botão "Novo Jogo" permite reiniciar a partida a qualquer momento.
+## 🚀 Funcionalidades Principais
 
-**Design Moderno e Responsivo:** A interface é visualmente apelativa e adapta-se a diferentes tamanhos de ecrã, funcionando bem em desktops e dispositivos móveis.
+* 🔢 **Adivinhe o Número:** Tente descobrir o número secreto entre 1 e 10.
+* 💡 **Dicas Dinâmicas:** Após cada tentativa, o jogo informa se o número secreto é maior ou menor.
+* 🗣️ **Feedback por Voz:** Utiliza a API *ResponsiveVoice.js* para fornecer instruções e resultados em áudio (Português do Brasil), tornando a experiência mais acessível.
+* 🎯 **Contador de Tentativas:** Ao acertar, o jogo exibe exatamente quantas tentativas foram necessárias para vencer.
+* 🔄 **Sorteio Inteligente:** Os números sorteados não se repetem até que todas as possibilidades sejam esgotadas, garantindo uma nova experiência a cada partida.
 
-# 🛠️ Tecnologias Utilizadas
-Este projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
+## 🛠️ Tecnologias Utilizadas
 
-**HTML5:** Para a estrutura semântica do conteúdo.
+* **HTML5:** Estruturação semântica do conteúdo.
+* **CSS3:** Estilização de interface, layout flexbox e responsividade.
+* **JavaScript (ES6+):** Lógica principal do jogo, manipulação direta do DOM e interatividade.
+* **ResponsiveVoice.js:** Biblioteca externa para conversão de texto em fala (Text-to-Speech).
+* **Vercel:** Hospedagem (Deploy) do projeto.
 
-**CSS3:** Para toda a estilização, incluindo layout flexbox, gradientes e media queries para responsividade.
-
-**JavaScript (ES6+):** Responsável por toda a lógica do jogo, manipulação do DOM e interatividade.
-
-ResponsiveVoice.js: Uma biblioteca externa para a funcionalidade de conversão de texto em fala (Text-to-Speech).
+---
+Desenvolvido com 🩵 por **Yasmin Caetano**
